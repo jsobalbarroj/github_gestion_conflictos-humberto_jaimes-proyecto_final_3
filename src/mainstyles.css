@@ -1,21 +1,27 @@
    @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,700;1,600&display=swap');
 
-   body {
+   body { 
      background-color: #3100ED;
      color: black;
      font-family: 'Poppins';
    }
 
+   h1  {
+     color: #3100ED;
+     font-style: oblique;
+     font-weight: 600;
+   }
+
    header {
      padding: 10px;
      background-color: white;
-   }
+   }    
 
    footer {
      clear: both;
      position: relative;
      height: 20px;
-     text-align: center;
+     text-align:   center;
      color: white;
      background-color: #3100ED;
    }
